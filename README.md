@@ -1,0 +1,1 @@
+Install the packages from the import , also create a folder named "gesture" in the root directory , and inside gesture create folders "test" and "train", the project is simple and robust if faced with any errors use any AI to assist you, cheers !
